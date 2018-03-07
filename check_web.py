@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # checks whether a URL responds with an https status of 200 and send an email if it does not. 
 # Usage: check_web.py [url]
+# David Hart 04.07.2018
 
 
 import urllib.request, urllib.error
